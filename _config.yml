@@ -1,0 +1,12 @@
+# Site settings
+title: Sagrys' personal wiki and stuff
+description: >- # this means to ignore newlines until "baseurl:"
+  Sagrys de Beer's personal wiki for stuff, and the occasional blog post.
+author: Sagrys de Beer
+keywords: blog,wiki,programming
+repository: sagrysdebeer/sagrysdebeer.github.io
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
