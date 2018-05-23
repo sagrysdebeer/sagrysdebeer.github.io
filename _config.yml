@@ -10,3 +10,4 @@ repository: sagrysdebeer/sagrysdebeer.github.io
 markdown: kramdown
 plugins:
   - jekyll-feed
+

@@ -6,7 +6,7 @@ Disabling the goddamned over-sensitive touchpad on my laptop via the terminal.
 
 Firstly execute the following command in bash.
 
-```bash
+```
 xinput list
 ```
 
